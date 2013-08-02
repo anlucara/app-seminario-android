@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vocabulator</string>
+    <string name="banner_description">Banner pantalla inicial</string>
+    <string name="copyright">2013 - Todos los derechos reservados.</string>
+    <!-- BOTONES -->
+    <string name="boton_x">x</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="boton_nuevo">Nuevo</string>
+    <string name="boton_repaso_rapido">Repaso Rápido</string>
+    <string name="boton_repaso_personalizado">Repaso Personalizado</string>
+    <string name="boton_ingreso_items">Ingreso de Items</string>
+    <string name="boton_preferencias">Preferencias</string>
+    <string name="boton_cambiar_usuario">Cambiar Usuario</string>
+    <string name="boton_iniciar_repaso">Iniciar</string>
+    <string name="boton_ok">OK</string>
+    <string name="boton_ingresar_tarjeta">Ingresar</string>
+    <string name="boton_ingresar_categoria">Ingresar</string>
+    <string name="boton_repetir">Repetir</string>
+    <string name="boton_salir">Salir</string>
+    <!-- MENSAJES -->
+    <string name="mensaje_error_generico">Ha ocurrido un error inesperado</string>
+    <string name="mensaje_error_nombre">Por favor ingrese un nombre de usuario</string>
+    <string name="mensaje_error_categoria">Por favor ingrese un nombre</string>
+    <string name="mensaje_error_nuevo">No ha sido posible crear el usuario</string>
+    <string name="mensaje_error_repetido">Este usuario ya existe</string>
+    <string name="mensaje_error_cara_frontal">Por favor ingrese el nombre de la palabra de la cara frontal</string>
+    <string name="mensaje_error_cara_trasera">Por favor ingrese el nombre de la palabra de la cara trasera</string>
+    <string name="mensaje_error_caras">Los idiomas de cada cara deben ser diferentes</string>
+    <string name="mensaje_tarjeta_exito">La tarjeta se agregó exitosamente</string>
+    <string name="error_sin_tarjetas">No hay tarjetas con estas características</string>
+  <!-- LABELS -->
+	<string name="label_nombre">Usuario:</string>
+	<string name="label_cantidad_tarjetas">Cantidad de Tarjetas:</string>
+    <string name="label_cara_frontal">Cara Frontal:</string>
+    <string name="label_cara_trasera">Cara Trasera:</string>
+    <string name="label_dificultad">Dificultad:</string>
+    <string name="label_categoria">Categoria:</string>
+    <string name="label_tipo">Tipo:</string>
+    <string name="label_avance">0/10</string>
+    <string name="label_avance_final">10/10</string>
+    <string name="label_idiomas">Deutsch -> English</string>
+    <!-- ITEMS -->
+    <string name="item_nueva_categoria"> - Nueva - </string>
+    <string name="item_todos"> - Todos - </string>
+    <!-- PREFERENCIAS -->
+	<string name="preferencias_idiomas_titulo">Idioma</string>
+    <string name="preferencias_idiomas_key">idiomas</string>
+    <string name="preferencias_idiomas_mensaje">Por favor seleccione un idioma</string>
+    <!-- OTROS -->
+    <string name="cantidad_defecto">1</string>
+    <string name="jugador1">Ana</string>
+    <string name="jugador2">Julian</string>
+    <string name="jugador3">Diana</string>
+    <string name="idioma_default">3</string>
+    <string name="deutsch">Deutsch</string>
+    <string name="english">English</string>
+    <string name="espanol">Español</string>
+    <string name="francais">Français</string>
+    <string name="contenido_tarjeta">Palabra</string>
+    <string name="text_view_resultados">RESULTADOS</string>
+    <string name="porcentaje">% de aciertos</string>
+	<!-- ARRAYS -->
+    <string-array name="idiomas">
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+    </string-array>
+    <string-array name="idiomasCodigos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>Sustantivo</item>
+        <item>Verbo</item>
+        <item>Adjetivo</item>
+        <item>Adverbio</item>
+        <item>Conjunción</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="idiomasPersonalizados">
+        <item> - Todos - </item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+    </string-array>
+    <string-array name="dificultades">
+        <item> - Todos - </item>
+        <item>Facil</item>
+        <item>Intermedio</item>
+        <item>Dificil</item>
+    </string-array>
+    <string-array name="tiposPersonalizados">
+        <item> - Todos - </item>
+        <item>Sustantivo</item>
+        <item>Verbo</item>
+        <item>Adjetivo</item>
+        <item>Adverbio</item>
+        <item>Conjunción</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
